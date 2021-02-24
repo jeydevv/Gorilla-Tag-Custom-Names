@@ -20,3 +20,5 @@ A non-intrusive name mod for the amazing game Gorilla Tag
 
 ## Example:
 ![](https://cdn.discordapp.com/attachments/660972652566937611/814183466908385309/unknown.png)
+
+(a blinking face)

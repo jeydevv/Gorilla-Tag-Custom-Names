@@ -13,6 +13,9 @@ A non-intrusive name mod for the amazing game Gorilla Tag
 9) Go into the new folder created called "Gorilla-Tag-Custom-Names-main"
 10) Highlight all the files and drag to the part of the directory thats called "Gorilla Tag" (seen below)
 ![](https://cdn.discordapp.com/attachments/660972652566937611/814184868677943317/unknown.png)
+11) Click "Replace" if it prompts you to
+12) Click the back button (arrow in top left)
+13) Your done! If you do not do the next step the name by default will be a blinking face...
 
 ## Custom names:
 1) Staying in the directory you just used to install it there should now be a file called "!name_config.txt"

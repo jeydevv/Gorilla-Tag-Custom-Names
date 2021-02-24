@@ -11,7 +11,7 @@ A non-intrusive name mod for the amazing game Gorilla Tag
 7) Drag the file you install into this directory
 8) Right click on the file and click "Extract here"
 9) Go into the new folder created called "Gorilla-Tag-Custom-Names-main"
-10) Highlight all the files and drag to the part of the directory thats called "Gorilla Tag"
+10) Highlight all the files and drag to the part of the directory thats called "Gorilla Tag" (seen below)
 ![](https://cdn.discordapp.com/attachments/660972652566937611/814184868677943317/unknown.png)
 
 ## Custom names:

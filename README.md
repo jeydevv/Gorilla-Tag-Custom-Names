@@ -1,2 +1,22 @@
-# Gorilla-Tag-Custom-Names
-A non-intrusive way to have custom and animated names in Gorilla Tag!
+# Gorilla Tag Custom Names
+A non-intrusive name mod for the amazing game Gorilla Tag
+
+## To install:
+1) Download by clicking "Code" and clicking "Download ZIP"
+2) Go to the game in your steam library
+3) Right click it on the left hand side of your library
+4) Click "Properties..."
+5) Go to the LOCAL FILES tab
+6) Click "Browse..."
+7) Drag the file you install into this directory
+8) Right click on the file and click "Extract here"
+
+## Custom names:
+1) Staying in the directory you just used to install it there should now be a file called "!name_config.txt"
+2) Open this document by double-clicking
+3) The first line is the frame step between names, basically how many frames to wait before changing your name I'd recommend 60-120 but it will depend on your computer and may need some tinkering
+4) The rest of the lines are the names to scroll through, you may have as many as you want!
+5) Launch the game and enjoy!
+
+## Example:
+![](https://cdn.discordapp.com/attachments/660972652566937611/814183466908385309/unknown.png)

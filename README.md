@@ -28,4 +28,5 @@ A non-intrusive name mod for the amazing game Gorilla Tag
 ![](https://cdn.discordapp.com/attachments/660972652566937611/814183466908385309/unknown.png)
 
 ![](https://media4.giphy.com/media/BF24FNzGg8RFIBCmwy/giphy.gif)
+
 (Thanks to Salesman Monke#6779 for the GIF)

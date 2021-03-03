@@ -16,7 +16,6 @@ Go to BepInEx/plugins/CustomNames and open the text file (name_config.txt)
 
 ## Example:
 ![](https://media.giphy.com/media/vq4SG0mQf1UGfCgxN2/giphy.gif)
-
 ![](https://i.postimg.cc/ZKCXVq7J/Capture.jpg)
 
 ![](https://media4.giphy.com/media/BF24FNzGg8RFIBCmwy/giphy.gif)

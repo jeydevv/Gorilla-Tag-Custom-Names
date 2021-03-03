@@ -15,7 +15,7 @@ Go to BepInEx/plugins/CustomNames and open the text file (name_config.txt)
 3) The rest of the lines are the names that will be cycled through top-down, by default this spells out "I want to be" then "monke" (with alternating capitalization)
 
 ## Example:
-![](https://cdn.discordapp.com/attachments/660972652566937611/814183466908385309/unknown.png)
+![](https://i.postimg.cc/ZKCXVq7J/Capture.jpg)
 
 ![](https://media4.giphy.com/media/BF24FNzGg8RFIBCmwy/giphy.gif)
 

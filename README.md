@@ -3,10 +3,8 @@ A non-intrusive name mod for the amazing game Gorilla Tag
 ### Please note: this mod WILL work on public servers, however you are wholly responsible for any reports and/or bans you may receive
 
 ## To install:
-### If you have BepInEx
+### Using BepInEx
 Simply download the plugin folder (dll + text config) [Click here to download](https://github.com/jeydevv/Gorilla-Tag-Custom-Names/releases/download/1.0.1/CustomNames.Plugin.zip), extract the folder then move it into your BepInEx/plugins folder in your game directory
-### If you don't have BepInEx (This method involves installing BepInEx)
-Simply download the ZIP file [Click here to download](https://github.com/jeydevv/Gorilla-Tag-Custom-Names/releases/download/1.0.1/CustomNames.with.BepInEx.zip), then move the ZIP file into your game folder (can get to it by going to Steam, right-clicking on Gorilla Tag in your library, click properties, go to Local Files and click Browse), then right click the ZIP file and extract there - there should now be a folder called "BepInEx"
 
 ## Custom names:
 Go to BepInEx/plugins/CustomNames and open the text file (name_config.txt)

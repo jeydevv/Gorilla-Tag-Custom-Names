@@ -91,3 +91,14 @@ C:\Users\joshu\Desktop\Custom Names\obj\Debug\Custom Names.csproj.CoreCompileInp
 C:\Users\joshu\Desktop\Custom Names\obj\Debug\Custom Names.csproj.CopyComplete
 C:\Users\joshu\Desktop\Custom Names\obj\Debug\Custom Names.dll
 C:\Users\joshu\Desktop\Custom Names\obj\Debug\Custom Names.pdb
+C:\Users\joshu\Documents\Programming\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Custom Names.dll
+C:\Users\joshu\Documents\Programming\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Custom Names.pdb
+C:\Users\joshu\Documents\Programming\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\MeshBakerCore.dll
+C:\Users\joshu\Documents\Programming\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Oculus.VR.dll
+C:\Users\joshu\Documents\Programming\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Oculus.Platform.dll
+C:\Users\joshu\Documents\Programming\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\PlayFab.dll
+C:\Users\joshu\Documents\Programming\Gorilla-Tag-Custom-Names\Custom Names\obj\Debug\Custom Names.csprojAssemblyReference.cache
+C:\Users\joshu\Documents\Programming\Gorilla-Tag-Custom-Names\Custom Names\obj\Debug\Custom Names.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Documents\Programming\Gorilla-Tag-Custom-Names\Custom Names\obj\Debug\Custom Names.csproj.CopyComplete
+C:\Users\joshu\Documents\Programming\Gorilla-Tag-Custom-Names\Custom Names\obj\Debug\Custom Names.dll
+C:\Users\joshu\Documents\Programming\Gorilla-Tag-Custom-Names\Custom Names\obj\Debug\Custom Names.pdb

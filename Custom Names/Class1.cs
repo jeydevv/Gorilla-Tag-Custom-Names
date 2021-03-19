@@ -15,7 +15,7 @@ using System.IO;
 
 namespace Custom_Names
 {
-	[BepInPlugin("org.jeydevv.monkeytag.customnames", "Custom Names", "1.0.1")]
+	[BepInPlugin("org.jeydevv.monkeytag.customnames", "Custom Names", "1.1.0")]
 	public class CustomNameMain : BaseUnityPlugin
 	{
 		public void Awake()
@@ -30,9 +30,6 @@ namespace Custom_Names
 	class CustomNameLogic
 	{
 		public static bool loaded = false;
-		public static float red = 0f;
-		public static float green = 0f;
-		public static float blue = 0f;
 		public static string[] names;
 		public static int frameDelay = 20;
 		static int indexUsed = 0;
@@ -53,9 +50,9 @@ namespace Custom_Names
 					{
 						GorillaTagger.Instance.myVRRig.photonView.RPC("InitializeNoobMaterial", RpcTarget.All, new object[]
 						{
-							red,
-							green,
-							blue
+							PlayerPrefs.GetFloat("redValue"),
+							PlayerPrefs.GetFloat("greenValue"),
+							PlayerPrefs.GetFloat("blueValue")
 						});
 					}
 				}
@@ -75,10 +72,7 @@ namespace Custom_Names
 				try
 				{
 					string[] array = File.ReadAllLines("BepInEx\\plugins\\CustomNames\\name_config.txt");
-					string[] tmpLine = array[0].Split('-');
-
-					string frameDelay = tmpLine[0];
-					string rgb = tmpLine[1];
+					string frameDelay = array[0];
 
 					int intFrameDelay = int.Parse(frameDelay);
 					if (intFrameDelay < 20)
@@ -86,14 +80,10 @@ namespace Custom_Names
 						intFrameDelay = 20;
 					}
 
-					CustomNameLogic.red = float.Parse(rgb[0].ToString()) / 10f;
-					CustomNameLogic.green = float.Parse(rgb[1].ToString()) / 10f;
-					CustomNameLogic.blue = float.Parse(rgb[2].ToString()) / 10f;
-
-					string[] tmpNames = new string[array.Length - 2];
-					for (int i = 2; i < array.Length; i++)
+					string[] tmpNames = new string[array.Length - 1];
+					for (int i = 0; i < tmpNames.Length; i++)
 					{
-						tmpNames[i - 2] = array[i];
+						tmpNames[i] = array[i + 1];
 					}
 					CustomNameLogic.names = tmpNames;
 

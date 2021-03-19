@@ -4,7 +4,7 @@ A non-intrusive name mod for the amazing game Gorilla Tag
 
 ## To install:
 ### Using BepInEx
-Simply download the plugin folder (dll + text config) [Click here to download](https://github.com/jeydevv/Gorilla-Tag-Custom-Names/releases/download/1.0.1/CustomNames.Plugin.zip), extract the folder then move it into your BepInEx/plugins folder in your game directory
+Simply download the plugin folder (dll + text config) [Click here to download](https://github.com/jeydevv/Gorilla-Tag-Custom-Names/releases/download/1.1.0/CustomNames.zip), extract the folder then move it into your BepInEx/plugins folder in your game directory
 
 ## Custom names:
 Go to BepInEx/plugins/CustomNames and open the text file (name_config.txt)

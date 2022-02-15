@@ -36,33 +36,36 @@ namespace Custom_Names
 		static int indexUsed = 0;
 		static void Postfix()
 		{
-			try
+			if (PhotonNetwork.InRoom && (PhotonNetwork.CurrentRoom.CustomProperties["gameMode"] as string).Contains("private"))
 			{
-				if (Time.frameCount % frameDelay == 0 && loaded)
+				try
 				{
-					string text = names[indexUsed++ % names.Length];
-
-					GorillaComputer.instance.savedName = text;
-					PhotonNetwork.LocalPlayer.NickName = text;
-					GorillaComputer.instance.currentName = text;
-					GorillaComputer.instance.offlineVRRigNametagText.text = text;
-
-					PlayerPrefs.SetString("playerName", text);
-					PlayerPrefs.Save();
-					if (PhotonNetwork.InRoom)
+					if (Time.frameCount % frameDelay == 0 && loaded)
 					{
-						GorillaTagger.Instance.myVRRig.photonView.RPC("InitializeNoobMaterial", RpcTarget.All, new object[]
+						string text = names[indexUsed++ % names.Length];
+
+						GorillaComputer.instance.savedName = text;
+						PhotonNetwork.LocalPlayer.NickName = text;
+						GorillaComputer.instance.currentName = text;
+						GorillaComputer.instance.offlineVRRigNametagText.text = text;
+
+						PlayerPrefs.SetString("playerName", text);
+						PlayerPrefs.Save();
+						if (PhotonNetwork.InRoom)
 						{
-							PlayerPrefs.GetFloat("redValue"),
-							PlayerPrefs.GetFloat("greenValue"),
-							PlayerPrefs.GetFloat("blueValue")
-						});
+							GorillaTagger.Instance.myVRRig.photonView.RPC("InitializeNoobMaterial", RpcTarget.All, new object[]
+							{
+								PlayerPrefs.GetFloat("redValue"),
+								PlayerPrefs.GetFloat("greenValue"),
+								PlayerPrefs.GetFloat("blueValue")
+							});
+						}
 					}
 				}
-			}
-			catch (Exception e)
-			{
-				File.WriteAllText("customnames_postfixerror.log", e.ToString());
+				catch (Exception e)
+				{
+					File.WriteAllText("customnames_postfixerror.log", e.ToString());
+				}
 			}
 		}
 

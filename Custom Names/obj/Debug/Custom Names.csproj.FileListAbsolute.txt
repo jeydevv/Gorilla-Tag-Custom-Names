@@ -197,7 +197,6 @@ C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debu
 C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\BepInEx.xml
 C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\MonoMod.Utils.xml
 C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\MonoMod.RuntimeDetour.xml
-C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\obj\Debug\Custom Names.csproj.AssemblyReference.cache
 C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\obj\Debug\Custom Names.csproj.CoreCompileInputs.cache
 C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\obj\Debug\Custom Names.csproj.CopyComplete
 C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\obj\Debug\Custom Names.dll

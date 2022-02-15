@@ -16,7 +16,7 @@ using GorillaNetworking;
 
 namespace Custom_Names
 {
-	[BepInPlugin("org.jeydevv.monkeytag.customnames", "Custom Names", "1.1.0")]
+	[BepInPlugin("org.jeydevv.monkeytag.customnames", "Custom Names", "2.0.0")]
 	public class CustomNameMain : BaseUnityPlugin
 	{
 		public void Awake()
@@ -41,12 +41,14 @@ namespace Custom_Names
 				if (Time.frameCount % frameDelay == 0 && loaded)
 				{
 					string text = names[indexUsed++ % names.Length];
-					PhotonNetwork.LocalPlayer.NickName = text;
-					GorillaComputer.instance.offlineVRRigNametagText.text = text;
+
 					GorillaComputer.instance.savedName = text;
+					PhotonNetwork.LocalPlayer.NickName = text;
+					GorillaComputer.instance.currentName = text;
+					GorillaComputer.instance.offlineVRRigNametagText.text = text;
+
 					PlayerPrefs.SetString("playerName", text);
 					PlayerPrefs.Save();
-
 					if (PhotonNetwork.InRoom)
 					{
 						GorillaTagger.Instance.myVRRig.photonView.RPC("InitializeNoobMaterial", RpcTarget.All, new object[]
@@ -76,9 +78,9 @@ namespace Custom_Names
 					string frameDelay = array[0];
 
 					int intFrameDelay = int.Parse(frameDelay);
-					if (intFrameDelay < 20)
+					if (intFrameDelay < 120)
 					{
-						intFrameDelay = 20;
+						intFrameDelay = 120;
 					}
 
 					string[] tmpNames = new string[array.Length - 1];

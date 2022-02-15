@@ -102,3 +102,103 @@ C:\Users\joshu\Documents\Programming\Gorilla-Tag-Custom-Names\Custom Names\obj\D
 C:\Users\joshu\Documents\Programming\Gorilla-Tag-Custom-Names\Custom Names\obj\Debug\Custom Names.csproj.CopyComplete
 C:\Users\joshu\Documents\Programming\Gorilla-Tag-Custom-Names\Custom Names\obj\Debug\Custom Names.dll
 C:\Users\joshu\Documents\Programming\Gorilla-Tag-Custom-Names\Custom Names\obj\Debug\Custom Names.pdb
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Custom Names.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Custom Names.pdb
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\0Harmony.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Assembly-CSharp.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\BepInEx.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Photon3Unity3D.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\PhotonChat.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\PhotonRealtime.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\PhotonUnityNetworking.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\PhotonUnityNetworking.Utilities.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\PhotonVoice.API.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\PhotonVoice.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\PhotonVoice.PUN.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Unity.Animation.Rigging.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Unity.Burst.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Unity.InputSystem.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Unity.Mathematics.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Unity.Timeline.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Unity.XR.Interaction.Toolkit.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.UI.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Mono.Cecil.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\MonoMod.Utils.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Oculus.VR.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\PlayFab.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\SteamVR.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\Valve.Newtonsoft.Json.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\0Harmony.xml
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\BepInEx.xml
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\MonoMod.Utils.xml
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\obj\Debug\Custom Names.csproj.AssemblyReference.cache
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\obj\Debug\Custom Names.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\obj\Debug\Custom Names.csproj.CopyComplete
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\obj\Debug\Custom Names.dll
+C:\Users\joshu\Documents\gitstuff\Gorilla-Tag-Custom-Names\Custom Names\obj\Debug\Custom Names.pdb

@@ -1,6 +1,8 @@
 # Gorilla Tag Custom Names
 A non-intrusive name mod for the amazing game Gorilla Tag
-### Please note: this mod WILL NOT work on public servers, however you are wholly responsible for any reports and/or bans you may receive
+### Please note: 
+### This mod is no longer being developed or maintained
+### This mod WILL NOT work on public servers, however you are wholly responsible for any reports and/or bans you may receive
 
 ## To install:
 ### Using BepInEx
